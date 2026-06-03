@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Nabilazahra 👋
 
-<!--
-**ariefrhp97/ariefrhp97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔬 About Me
+- 🎓 AI/ML Researcher
+- 💻 Working with **AMD ROCm** and **MI300X** GPUs
+- 📊 Benchmarking LLM inference performance
+- 🔥 Passionate about open-source AI research
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** Python, Bash
+- **Frameworks:** PyTorch, vLLM, Transformers
+- **Hardware:** AMD Instinct MI300X, ROCm
+- **Tools:** Git, Linux, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Current Projects
+- [ROCm MI300X LLM Benchmarks](https://github.com/nabilazahra01/rocm-mi300x-benchmarks)
+
+## 📫 Connect
+- GitHub: [@nabilazahra01](https://github.com/nabilazahra01)
