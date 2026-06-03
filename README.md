@@ -1,4 +1,4 @@
-# Hi, I'm Nabilazahra 👋
+# Hi, I'm Arif 👋
 
 ## 🔬 About Me
 - 🎓 AI/ML Researcher
